@@ -1,5 +1,6 @@
 import 'package:filmes_studio_ghibli/models/filme.dart';
 import 'package:filmes_studio_ghibli/repositories/repository.dart';
+import 'package:filmes_studio_ghibli/components/lista_filmes.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
